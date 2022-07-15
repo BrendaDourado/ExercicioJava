@@ -9,6 +9,7 @@ public static void main(String[] args){
     //Basic.basic();
     //CircleArea.circleArea();
     //DDD.ddd();
-    EvenOrODD.evenOrOdd();
+    //EvenOrODD.evenOrOdd();
+    Tautograma.tautograma();
 }
 }
