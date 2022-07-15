@@ -10,6 +10,7 @@ public static void main(String[] args){
     //CircleArea.circleArea();
     //DDD.ddd();
     //EvenOrODD.evenOrOdd();
-    Tautograma.tautograma();
+    //Tautograma.tautograma();
+    Fatorial.fatorial();
 }
 }
