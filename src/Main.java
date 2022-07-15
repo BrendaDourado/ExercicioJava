@@ -8,6 +8,6 @@ public static void main(String[] args){
 
     //Basic.basic();
     //CircleArea.circleArea();
-    
+    DDD.ddd();
 }
 }
