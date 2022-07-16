@@ -11,6 +11,7 @@ public static void main(String[] args){
     //DDD.ddd();
     //EvenOrODD.evenOrOdd();
     //Tautograma.tautograma();
-    Fatorial.fatorial();
+    //Fatorial.fatorial();
+    Population.population();
 }
 }
