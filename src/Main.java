@@ -12,6 +12,7 @@ public static void main(String[] args){
     //EvenOrODD.evenOrOdd();
     //Tautograma.tautograma();
     //Fatorial.fatorial();
-    Population.population();
+    //Population.population();
+    HiddenMessage.hiddenMessage();
 }
 }
