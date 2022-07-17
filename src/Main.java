@@ -13,6 +13,8 @@ public static void main(String[] args){
     //Tautograma.tautograma();
     //Fatorial.fatorial();
     //Population.population();
-    HiddenMessage.hiddenMessage();
+    //HiddenMessage.hiddenMessage();
+    EachianosI.each();
+    //eachTeste.eachianosI();
 }
 }
